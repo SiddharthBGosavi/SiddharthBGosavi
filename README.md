@@ -111,10 +111,10 @@ I turn messy, raw data into decisions — building the pipelines that move it, t
 #### 📊 [HR Analytics Dashboard](#)
 Built a Power BI dashboard analyzing employee attrition and workforce trends, uncovering key drivers of attrition and giving HR stakeholders a self-serve view into headcount, tenure, and turnover risk.
 
-#### 🗃️ [SQL Analytics Project](#)
+#### 🗃️ [SQL Analytics Project]()
 Wrote advanced SQL queries to answer real business questions — solving multi-table joins, window functions, and aggregations to deliver reporting that replaced manual spreadsheet tracking.
 
-#### 🐍 [Python Analytics Project](#)
+#### 🐍 [Python Analytics Project](https://github.com/SiddharthBGosavi/Python-HR-Analytics-project-.git)
 Designed an end-to-end Python pipeline for data cleaning, transformation, and visualization, turning a raw, inconsistent dataset into a structured, analysis-ready source with clear visual takeaways.
 
 > 💡 Replace the `#` links above with your actual repository URLs once pinned.
@@ -132,9 +132,7 @@ Designed an end-to-end Python pipeline for data cleaning, transformation, and vi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBGosavi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-> ⚠️ Replace `YOUR_USERNAME` in the three image URLs above with your actual GitHub username. These cards are powered by community-hosted services (`github-readme-stats` and `github-readme-streak-stats`) — if a card doesn't render, give it a minute (cold start) or refresh; for guaranteed uptime later, both projects support self-hosting via GitHub Actions.
 
----
 
 ### 📫 Connect With Me
 
