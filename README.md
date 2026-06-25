@@ -22,7 +22,6 @@ I turn messy, raw data into decisions — building the pipelines that move it, t
 - 📍 Pune, Maharashtra, India
 - 📊 Data Analyst focused on turning raw data into business-ready insight
 - 🔗 Genuinely interested in the *intersection* of Data Engineering, Analytics, and AI — not just analyzing data, but understanding how it's stored, moved, and ultimately made decision-ready
-- ⚙️ Building Data Engineering fundamentals: warehousing, pipelines, and cloud-scale data platforms
 - 🤖 Exploring how AI/LLMs can accelerate analytical workflows — from prompt-driven EDA to AI-assisted reporting
 - 🌱 Constantly sharpening technical and analytical skills through hands-on projects
 - 🗿 Curious about startups — how they make fast, data-informed decisions with limited resources
