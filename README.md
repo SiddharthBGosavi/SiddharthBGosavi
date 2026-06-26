@@ -95,15 +95,15 @@ I turn messy, raw data into decisions — building the pipelines that move it, t
 
 > _Add 2–3 lines per internship: company name, duration, and one measurable outcome (e.g., "Automated weekly reporting, cutting turnaround time from 2 days to 2 hours")._
 
-**Data Analyst Intern** — *Company Name* · *Duration*
-- Achievement-oriented bullet 1
-- Achievement-oriented bullet 2
+**Data Analyst Intern** — *Uptoskills* · *3 Months*
+- Developed several interactive PowerBI Dashboads, Extract , mined, clean, format, validate the data and generate reports based on that data 
+- Later Lead the team of traine Data Analyst . As a Team Leader I used to assign the task, checked the quality of data,workdone and report it to the seniors with fined, polish, structured data & reports
+- Learn Team work, Team Managment, Problem Solving,etc
+  
 
-**Data Analyst Intern** — *Company Name* · *Duration*
-- Achievement-oriented bullet 1
-- Achievement-oriented bullet 2
-
----
+**Data Analyst Intern** — *Anvister ITS PVT LTD* · *1 Month*
+- Learn and developed project based on the Python and its Libraires ( *Numpy, Pandas, Seaborn, Matplotlib*)
+- Collect, Clean, Format data using Excel then build Dashboard based on that using PowerBI, DAX, PowerQuery. 
 
 ### 📂 Featured Projects
 
@@ -116,7 +116,6 @@ Wrote advanced SQL queries to answer real business questions — solving multi-t
 #### 🐍 [Python Analytics Project](https://github.com/SiddharthBGosavi/Python-HR-Analytics-project-.git)
 Designed an end-to-end Python pipeline for data cleaning, transformation, and visualization, turning a raw, inconsistent dataset into a structured, analysis-ready source with clear visual takeaways.
 
-> 💡 Replace the `#` links above with your actual repository URLs once pinned.
 
 ---
 
