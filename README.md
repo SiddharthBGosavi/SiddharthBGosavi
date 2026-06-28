@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Bridging Data Engineering, Analytics & AI</h3>
 
 <p align="center">
-I turn messy, raw data into decisions — building the pipelines that move it, the dashboards that explain it, and exploring how AI can speed up the journey from question to insight.
+I am curious person who like to turn messy, raw data into decisions — building the pipelines that move it, the dashboards that explain it, and exploring how AI can speed up the journey from question to insight.
 </p>
 
 <p align="center">
