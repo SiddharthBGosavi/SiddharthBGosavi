@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddharth Gosavi 👋</h1>
-<h3 align="center">Data Analyst · Data Engineering · AI & Analytics</h3>
+<h3 align="center">Data Analyst · Data Engineering · AI & Analytics · Data Science </h3>
 
 <p align="center">
   I'm a curious problem-solver who turns messy, raw data into decisions — building pipelines that move it, dashboards that explain it, and exploring how AI speeds up the journey from question to insight.
