@@ -1,54 +1,66 @@
-<h1 align="center">Hi, I'm Siddharth Gosavi 👋</h1>
-<h3 align="center">Data Analyst · Data Engineering · AI & Analytics · Data Science </h3>
+<div align="center">
 
-<p align="center">
-  I'm a curious problem-solver who turns messy, raw data into decisions — building pipelines that move it, dashboards that explain it, and exploring how AI speeds up the journey from question to insight.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Siddharth%20Gosavi&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Engineering%20%7C%20AI%20%26%20Analytics&descAlignY=55&descSize=17&descColor=e6e6e6" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddharth-gosavi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:siddharthbgosavi2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SiddharthBGosavi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+raw%2C+messy+data+into+decisions;Building+pipelines%2C+dashboards+%26+ETL+workflows;Exploring+AI-powered+analytics+%26+prompt+engineering;Open+to+Data+Analyst+roles+at+product+companies" alt="Typing SVG"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthBGosavi&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/siddharth-gosavi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:siddharthbgosavi2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/SiddharthBGosavi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🚀 About Me
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SiddharthBGosavi&style=for-the-badge&color=7aa2f7" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
 
 - 🎓 **B.E. Electronics & Telecommunication Engineering** — Final Year, Pune, Maharashtra
-- 📊 Data Analyst focused on delivering business-ready insight from raw, complex data
+- 📊 Data Analyst focused on turning raw, complex data into business-ready insight
 - 🔗 Interested in the full **Data → Pipeline → Dashboard → Decision** loop — not just analysis, but how data is stored, moved, and made decision-ready
 - 🤖 Exploring how **AI & LLMs** can accelerate analytical workflows: prompt-driven EDA, AI-assisted reporting
 - 🏗️ Building **Data Engineering** fundamentals — warehousing, pipelines, cloud data platforms
 - 🗿 Curious about startups: how lean teams make fast, data-informed decisions with limited resources
 - 🎯 Actively targeting **Data Analyst roles at product-based companies**
 
----
-
-### 🎯 Current Focus
-
 ```text
-Advanced SQL          ████████████░░░░  Analytical & engineering use cases
-Power BI + DAX        ███████████░░░░░  Dashboard UX & storytelling
-Snowflake             ████████░░░░░░░░  Cloud data warehousing
-Microsoft Fabric      ███████░░░░░░░░░  Unified analytics platform
-Statistics for DS     █████████░░░░░░░  Analytical foundation
-ML Fundamentals       ██████░░░░░░░░░░  Expanding into predictive analytics
+🔭  Currently building     end-to-end analytics workflows — SQL → Python → Power BI
+🌱  Currently deepening    Data Engineering skills — Snowflake & Microsoft Fabric
+🤝  Open to collaborating  on dashboards, AI-assisted reporting & analytics tooling
+💬  Ask me about           Power BI, SQL optimization, or applied prompt engineering
+⚡  Fun fact               I built an AI marketing assistant for a real tiffin delivery business
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 Current Focus
+
+```text
+Advanced SQL           █████████████░░░  Analytical & engineering use cases
+Power BI + DAX         ████████████░░░░  Dashboard UX & storytelling
+Python (Pandas/NumPy)  ████████████░░░░  EDA, wrangling & visualization
+Snowflake              ████████░░░░░░░░  Cloud data warehousing
+Microsoft Fabric       ███████░░░░░░░░░  Unified analytics platform
+Statistics & ML        █████████░░░░░░░  Predictive analytics foundation
+Prompt Engineering     ██████████░░░░░░  Applied AI workflows (Gemini, Claude)
+```
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages & Query**
 
@@ -76,6 +88,14 @@ ML Fundamentals       ██████░░░░░░░░░░  Expandin
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1565C0?style=flat-square&logo=microsoftazure&logoColor=white)
 
+**AI & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=claude&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=flat-square)
+
 **Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -84,51 +104,89 @@ ML Fundamentals       ██████░░░░░░░░░░  Expandin
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
+**Core Competencies**
+
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-2E8B57?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_%26_Data_Pipelines-2E8B57?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning_%26_Validation-2E8B57?style=flat-square)
+![Dashboarding](https://img.shields.io/badge/Dashboard_Storytelling-2E8B57?style=flat-square)
+![Stakeholder Reporting](https://img.shields.io/badge/Stakeholder_Reporting-2E8B57?style=flat-square)
+
 ---
 
-### 🎯 Areas of Interest
+## 🧭 Areas of Interest
 
 | 📊 Analytics | 🏗️ Engineering | 🧠 Intelligence |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | Business Intelligence | Data Engineering | Artificial Intelligence |
 | Data Analytics | Cloud Data Warehousing | Machine Learning |
-| Data Visualization | Pipeline Fundamentals | Prompt Engineering |
+| Data Visualization | Pipeline Fundamentals (ETL) | Prompt Engineering |
+| Statistical Analysis | SQL & Database Design | NLP Fundamentals |
 
 ---
 
-### 💼 Internship Experience
+## 💼 Experience
 
-**Data Analyst Intern** — *Uptoskills* · *3 Months*
+**Data Analyst Intern** · *Uptoskills* · `3 Months`
 - Built and delivered multiple interactive **Power BI dashboards** used for team-level reporting, covering full ETL: extraction, cleaning, validation, and final report generation
-- **Promoted to Team Lead** mid-internship — assigned tasks to a group of trainee analysts, reviewed data quality and work output, and escalated polished, structured reports to senior stakeholders
+- 🏆 **Promoted to Team Lead** mid-internship — assigned tasks to a group of trainee analysts, reviewed data quality and work output, and escalated polished, structured reports to senior stakeholders
 - Coordinated analytical delivery end-to-end, from raw data intake to final sign-off
 
-**Data Analyst Intern** — *Anvister ITS Pvt. Ltd.* · *1 Month*
+**Data Analyst Intern** · *Anvister ITS Pvt. Ltd.* · `1 Month`
 - Developed a project-based analytics workflow using **Python** (NumPy, Pandas, Seaborn, Matplotlib) for data collection, cleaning, and exploratory analysis
 - Built a business **Power BI dashboard** on top of Excel-cleaned data, leveraging DAX and Power Query for calculated metrics and dynamic filtering
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-#### 📊 [HR Analytics Dashboard](https://github.com/SiddharthBGosavi)
-> **Power BI · DAX · Power Query · HR Data**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designed an interactive Power BI dashboard to analyze employee attrition and workforce trends. Identified key attrition drivers across departments, tenure bands, and salary ranges — giving HR stakeholders a self-serve view into headcount health and turnover risk without needing to query raw data.
+### 📊 [HR Analytics Dashboard](https://github.com/SiddharthBGosavi)
+**Power BI · DAX · Power Query · HR Data**
 
-#### 🗃️ [SQL Business Analytics Project](https://github.com/SiddharthBGosavi)
-> **MySQL · Advanced SQL · Window Functions · Aggregations**
+Interactive dashboard analyzing employee attrition and workforce trends — surfacing key attrition drivers across departments, tenure bands, and salary ranges for a self-serve view into headcount health.
 
-Answered real business questions using advanced SQL — multi-table joins, window functions (ROW_NUMBER, RANK, LAG/LEAD), CTEs, and aggregations — replacing a manual spreadsheet process with repeatable, query-driven reporting.
+</td>
+<td width="50%" valign="top">
 
-#### 🐍 [Python HR Analytics Project](https://github.com/SiddharthBGosavi/Python-HR-Analytics-project-.git)
-> **Python · Pandas · Seaborn · Matplotlib · EDA**
+### 🗃️ [SQL Business Analytics Project](https://github.com/SiddharthBGosavi)
+**MySQL · Advanced SQL · Window Functions**
 
-Built an end-to-end Python analytics pipeline: ingested a raw, inconsistent HR dataset, applied systematic cleaning and transformation, and produced a structured, visualization-rich output — turning noisy source data into a story a non-technical stakeholder could act on.
+Answers real business questions using multi-table joins, window functions (ROW_NUMBER, RANK, LAG/LEAD), CTEs, and aggregations — replacing a manual spreadsheet process with repeatable, query-driven reporting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 [Python HR Analytics Project](https://github.com/SiddharthBGosavi/Python-HR-Analytics-project-.git)
+**Python · Pandas · Seaborn · Matplotlib**
+
+End-to-end pipeline that ingests a raw, inconsistent HR dataset, applies systematic cleaning and transformation, and produces a structured, visualization-rich output for non-technical stakeholders.
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ [Team Work & Task Tracker](https://github.com/SiddharthBGosavi)
+**Java · Servlets · MySQL · Anthropic API**
+
+A complete Java web app built from scratch for team task management on a MySQL data layer — with a Claude (Anthropic API)-powered assistant built directly into the workflow.
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI Marketing Assistant — Pack&D `Private client project`
+**Google Gemini · Prompt Engineering · R-C-T-G-F-E Framework**
+
+Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packaging & delivery business serving working professionals, students, and families — generating current-affairs-based marketing punchlines on demand, built around a structured R-C-T-G-F-E prompting framework with explicit content guardrails. A hands-on example of applied prompt engineering outside a classroom setting.
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiddharthBGosavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
@@ -140,9 +198,13 @@ Built an end-to-end Python analytics pipeline: ingested a raw, inconsistent HR d
   <img src="https://streak-stats.demolab.com/?user=SiddharthBGosavi&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SiddharthBGosavi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+</p>
+
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddharth-gosavi/">
@@ -156,13 +218,13 @@ Built an end-to-end Python analytics pipeline: ingested a raw, inconsistent HR d
   </a>
 </p>
 
----
-
 <p align="center">
   <em>"Errors using inadequate data are much less than those using no data at all."</em><br/>
   — <strong>Charles Babbage</strong>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1b27,100:7aa2f7&section=footer" width="100%"/>
+
 <!--
 **SiddharthBGosavi/SiddharthBGosavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+-->
