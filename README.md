@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Siddharth%20Gosavi%20&fontSize=80&rotate=0"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Siddharth%20Gosavi&fontSize=80&rotate=0&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Engineering%20%7C%20AI%20%26%20Analytics&descAlignY=55&descSize=17&descColor=e6e6e6" width="100%" alt="Siddharth Gosavi — Data Analyst | Data Engineering | AI & Analytics"/>
 
 <a href="https://git.io/typing-svg">
