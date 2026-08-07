@@ -1,9 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Siddharth%20Gosavi%20&fontSize=80&rotate=0"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Siddharth%20Gosavi&fontSize=80&rotate=0&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Engineering%20%7C%20AI%20%26%20Analytics&descAlignY=55&descSize=17&descColor=e6e6e6" width="100%" alt="Siddharth Gosavi — Data Analyst | Data Engineering | AI & Analytics"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+raw%2C+messy+data+into+decisions;Building+pipelines%2C+dashboards+%26+ETL+workflows;Exploring+AI-powered+analytics+%26+prompt+engineering;Open+to+Data+Analyst+roles+at+product+companies" alt="Typing SVG"/>
 </a>
