@@ -185,6 +185,21 @@ Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packag
 
 ---
 
+## 🏆 GitHub Stats & Analytics
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBGosavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthBGosavi&theme=tokyonight&hide_border=true&background=0D1117&fire=FF5722" alt="Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthBGosavi&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddharthBGosavi&theme=tokyonight" height="150" alt="Top Languages" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthBGosavi&theme=tokyonight" alt="Profile Details" />
+</div>
+
 
 # 📊 GitHub Stats:
 
