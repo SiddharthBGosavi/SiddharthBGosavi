@@ -207,6 +207,12 @@ Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packag
   <img src="https://github-profile-trophy.vercel.app/?username=SiddharthBGosavi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SiddharthBGosavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SiddharthBGosavi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SiddharthBGosavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ---
 
 ## 📫 Connect With Me
