@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Siddharth%20Gosavi&animation=scaleIn&textBg=false&desc=Data%20Analyst%20|%20Ai%20Enthusisat%20|%20Data%20-%20Logic%20-%20Impact&descSize=20&section=header&fontColor=WHITE&descAlign=50">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Siddharth%20Gosavi&animation=scaleIn&textBg=false&desc=Data%20Analyst%20|%20Ai%20Enthusisat%20|%20Data%20-%20Logic%20-%20Impact&descSize=20&section=header&descAlign=50">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+raw%2C+messy+data+into+decisions;Building+pipelines%2C+dashboards+%26+ETL+workflows;Exploring+AI-powered+analytics+%26+prompt+engineering;Open+to+Data+Analyst+roles+at+product+companies" alt="Typing SVG"/>
 </a>
 
