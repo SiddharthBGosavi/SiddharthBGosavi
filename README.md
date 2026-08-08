@@ -185,33 +185,12 @@ Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packag
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- 🐍 Optional: live contribution snake. Add the one-time GitHub Action to SiddharthBGosavi/SiddharthBGosavi (workflow file shared in chat), let it run once, then uncomment this block:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SiddharthBGosavi/SiddharthBGosavi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
--->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthBGosavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBGosavi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SiddharthBGosavi&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddharthBGosavi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</p>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=SiddharthBGosavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SiddharthBGosavi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SiddharthBGosavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
