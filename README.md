@@ -1,21 +1,18 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Siddharth%20Gosavi&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Data%20Analyst%20%7C%20Data%20Engineering%20%7C%20AI%20%26%20Analytics&descAlignY=55&descSize=17&descColor=e6e6e6" width="100%"/>
-
-<a href="https://git.io/typing-svg">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Siddharth%20Gosavi&animation=scaleIn&textBg=false&desc=Data%20Analyst%20|%20Ai%20Enthusisat%20|%20Data%20-%20Logic%20-%20Impact&descSize=20&section=header&descAlign=50">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Turning+raw%2C+messy+data+into+decisions;Building+pipelines%2C+dashboards+%26+ETL+workflows;Exploring+AI-powered+analytics+%26+prompt+engineering;Open+to+Data+Analyst+roles+at+product+companies" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/siddharth-gosavi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:siddharthbgosavi2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://github.com/SiddharthBGosavi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -112,7 +109,9 @@ Prompt Engineering     ██████████░░░░░░  Applied
 ![Dashboarding](https://img.shields.io/badge/Dashboard_Storytelling-2E8B57?style=flat-square)
 ![Stakeholder Reporting](https://img.shields.io/badge/Stakeholder_Reporting-2E8B57?style=flat-square)
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=3&section=header" width="100%"/>
+</div>
 
 ## 🧭 Areas of Interest
 
@@ -171,7 +170,7 @@ End-to-end pipeline that ingests a raw, inconsistent HR dataset, applies systema
 <td width="50%" valign="top">
 
 ### ✅ [Team Work & Task Tracker](https://github.com/SiddharthBGosavi)
-**Java · Servlets · MySQL · Anthropic API**
+**Java · Servlets · MySQL · JavaScript · Anthropic API**
 
 A complete Java web app built from scratch for team task management on a MySQL data layer — with a Claude (Anthropic API)-powered assistant built directly into the workflow.
 
@@ -186,21 +185,20 @@ Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packag
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Stats & Analytics
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBGosavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthBGosavi&theme=tokyonight&hide_border=true&background=0D1117&fire=FF5722" alt="Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthBGosavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBGosavi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SiddharthBGosavi&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthBGosavi&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiddharthBGosavi&theme=tokyonight" height="150" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddharthBGosavi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthBGosavi&theme=tokyonight" alt="Profile Details" />
+</div>
 
 ---
 
@@ -208,13 +206,13 @@ Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packag
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddharth-gosavi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:siddharthbgosavi2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/SiddharthBGosavi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
