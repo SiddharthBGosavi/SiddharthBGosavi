@@ -178,11 +178,6 @@ A complete Java web app built from scratch for team task management on a MySQL d
 </tr>
 </table>
 
-### 🤖 AI Marketing Assistant — Pack&D `Private client project`
-**Google Gemini · Prompt Engineering · R-C-T-G-F-E Framework**
-
-Designed a custom Gemini-based AI assistant for **Pack&D**, a real tiffin packaging & delivery business serving working professionals, students, and families — generating current-affairs-based marketing punchlines on demand, built around a structured R-C-T-G-F-E prompting framework with explicit content guardrails. A hands-on example of applied prompt engineering outside a classroom setting.
-
 ---
 
 ## 🏆 GitHub Stats & Analytics
