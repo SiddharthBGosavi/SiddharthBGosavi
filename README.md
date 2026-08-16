@@ -30,15 +30,13 @@
 - 🔗 Interested in the full **Data → Pipeline → Dashboard → Decision** loop — not just analysis, but how data is stored, moved, and made decision-ready
 - 🤖 Exploring how **AI & LLMs** can accelerate analytical workflows: prompt-driven EDA, AI-assisted reporting
 - 🏗️ Building **Data Engineering** fundamentals — warehousing, pipelines, cloud data platforms
-- 🗿 Curious about startups: how lean teams make fast, data-informed decisions with limited resources
 - 🎯 Actively targeting **Data Analyst roles at product-based companies**
 
 ```text
 🔭  Currently building     end-to-end analytics workflows — SQL → Python → Power BI
 🌱  Currently deepening    Data Engineering skills — Snowflake & Microsoft Fabric
 🤝  Open to collaborating  on dashboards, AI-assisted reporting & analytics tooling
-💬  Ask me about           Power BI, SQL optimization, or applied prompt engineering
-⚡  Fun fact               I built an AI marketing assistant for a real tiffin delivery business
+
 ```
 
 ---
